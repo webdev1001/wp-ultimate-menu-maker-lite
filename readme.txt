@@ -2,7 +2,7 @@
 Tags: menue, restaurant, eatery, menus, hotel, bar, list
 Requires at least: 3.0
 Tested up to: 3.5.2
-Stable tag: 1.3
+Stable tag: 1.4
 
  Wordpress Ultimate Restaurant Menu Maker allows you to create menues for your cooking / restaurant web site.
 
