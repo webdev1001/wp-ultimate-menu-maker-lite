@@ -3,10 +3,10 @@
 Plugin Name: Wordpress Ultimate Restaurant Menu Maker Lite
 Plugin URI: http://voodoopress.net/
 Description: Wordpress Ultimate Restaurant Menu Maker allows you to create menus for your cooking / restaurant web site. 
-Version: 1.2
+Version: 1.3
 Author: Evgen Dobrzhanskiy
 Author URI: http://voodoopress.net/
-Stable tag: 1.2
+Stable tag: 1.3
 */
 include('modules/scripts.php');
 
