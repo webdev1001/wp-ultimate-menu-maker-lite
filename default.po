@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rm_domain\n"
+"POT-Creation-Date: 2013-01-28 17:28+0200\n"
+"PO-Revision-Date: 2013-01-28 17:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: modules/cpt.php:7
+msgid "Add New Dish"
+msgstr ""
+
+#: modules/cpt.php:8
+msgid "Edit Dish"
+msgstr ""
+
+#: modules/cpt.php:9
+msgid "New Dish"
+msgstr ""
+
+#: modules/cpt.php:10
+msgid "All Dishes"
+msgstr ""
+
+#: modules/cpt.php:11
+msgid "View Dish"
+msgstr ""
+
+#: modules/cpt.php:12
+msgid "Search Dish"
+msgstr ""
+
+#: modules/cpt.php:13
+msgid "No Dish found"
+msgstr ""
+
+#: modules/cpt.php:14
+msgid "No Dish found in Trash"
+msgstr ""
+
+#: modules/cpt.php:16
+msgid "Dishes"
+msgstr ""
+
+#: modules/cpt.php:40
+msgid "Search Category"
+msgstr ""
+
+#: modules/cpt.php:41
+msgid "Popular Category"
+msgstr ""
+
+#: modules/cpt.php:42
+msgid "All Categories"
+msgstr ""
+
+#: modules/cpt.php:45
+msgid "Edit Category"
+msgstr ""
+
+#: modules/cpt.php:46
+msgid "Update Category"
+msgstr ""
+
+#: modules/cpt.php:47
+msgid "Add New Category"
+msgstr ""
+
+#: modules/cpt.php:48
+msgid "New Category Name"
+msgstr ""
+
+#: modules/cpt.php:49
+msgid "Separate writers with commas"
+msgstr ""
+
+#: modules/cpt.php:50
+msgid "Add or remove writers"
+msgstr ""
+
+#: modules/cpt.php:51
+msgid "Choose from the most used writers"
+msgstr ""
+
+#: modules/cpt.php:52
+msgid "Categories"
+msgstr ""
+
+#: modules/cpt.php:69
+msgid "Add New Menu"
+msgstr ""
+
+#: modules/cpt.php:70
+msgid "Edit Menu"
+msgstr ""
+
+#: modules/cpt.php:71
+msgid "New Menu"
+msgstr ""
+
+#: modules/cpt.php:72
+msgid "All Menues"
+msgstr ""
+
+#: modules/cpt.php:73
+msgid "View Menu"
+msgstr ""
+
+#: modules/cpt.php:74
+msgid "Search Menu"
+msgstr ""
+
+#: modules/cpt.php:75
+msgid "No Menues found"
+msgstr ""
+
+#: modules/cpt.php:76
+msgid "No Menues found in Trash"
+msgstr ""
+
+#: modules/cpt.php:78
+msgid "Menues"
+msgstr ""
+
+#: modules/functions.php:382
+msgid "Sorry, no items"
+msgstr ""
+
+#: modules/functions.php:452
+msgid "Features: "
+msgstr ""
+
+#: modules/functions.php:458 modules/functions.php:588
+#: modules/meta_box.php:262
+msgid "Spicy"
+msgstr ""
+
+#: modules/functions.php:462 modules/functions.php:592
+#: modules/meta_box.php:268
+msgid "Hot"
+msgstr ""
+
+#: modules/functions.php:466 modules/functions.php:596
+#: modules/meta_box.php:275
+msgid "Featured"
+msgstr ""
+
+#: modules/functions.php:470 modules/functions.php:600
+#: modules/meta_box.php:281
+msgid "Discount"
+msgstr ""
+
+#: modules/functions.php:474 modules/functions.php:604
+#: modules/meta_box.php:288
+msgid "Special"
+msgstr ""
+
+#: modules/functions.php:478 modules/functions.php:608
+#: modules/meta_box.php:294
+msgid "Vegetarian"
+msgstr ""
+
+#: modules/functions.php:489
+msgid "Categories: "
+msgstr ""
+
+#: modules/functions.php:505
+msgid "Price: "
+msgstr ""
+
+#: modules/functions.php:506
+msgid "Old Price: "
+msgstr ""
+
+#: modules/functions.php:507
+msgid "Calories: "
+msgstr ""
+
+#: modules/functions.php:508
+msgid "Weight: "
+msgstr ""
+
+#: modules/meta_box.php:10
+msgid "Dish Info"
+msgstr ""
+
+#: modules/meta_box.php:18
+msgid "Dish Additional Images"
+msgstr ""
+
+#: modules/meta_box.php:26
+msgid "Menu Generator"
+msgstr ""
+
+#: modules/meta_box.php:33
+msgid "Menu Info"
+msgstr ""
+
+#: modules/meta_box.php:46
+msgid "Menu Data"
+msgstr ""
+
+#: modules/meta_box.php:48
+msgid "You can use this shortcode to print menu where you like."
+msgstr ""
+
+#: modules/meta_box.php:49
+msgid "Menu Short description"
+msgstr ""
+
+#: modules/meta_box.php:51
+msgid "This data will appear abow menu"
+msgstr ""
+
+#: modules/meta_box.php:74 modules/meta_box.php:106 modules/meta_box.php:116
+#: modules/meta_box.php:139
+msgid "Save"
+msgstr ""
+
+#: modules/meta_box.php:75 modules/meta_box.php:107 modules/meta_box.php:117
+#: modules/meta_box.php:140
+msgid "Edit"
+msgstr ""
+
+#: modules/meta_box.php:76 modules/meta_box.php:108 modules/meta_box.php:118
+#: modules/meta_box.php:141
+msgid "Remove"
+msgstr ""
+
+#: modules/meta_box.php:103 modules/meta_box.php:113 modules/meta_box.php:136
+msgid "Dummy Title"
+msgstr ""
+
+#: modules/meta_box.php:149
+msgid "Current Menu"
+msgstr ""
+
+#: modules/meta_box.php:149
+msgid "Add Title"
+msgstr ""
+
+#: modules/meta_box.php:249
+msgid "Price"
+msgstr ""
+
+#: modules/meta_box.php:252
+msgid "Old Price"
+msgstr ""
+
+#: modules/meta_box.php:255
+msgid "Calories"
+msgstr ""
+
+#: modules/meta_box.php:257
+msgid "Weight"
+msgstr ""
+
+#: modules/meta_box.php:260
+msgid "Features"
+msgstr ""
+
+#: modules/meta_box.php:301
+msgid "Short Description"
+msgstr ""
+
+#: modules/settings.php:6 modules/settings.php:13
+msgid "Settings"
+msgstr ""
+
+#: modules/settings.php:16
+msgid "Settings saved successfully"
+msgstr ""
+
+#: modules/settings.php:51
+msgid "Currency Sign"
+msgstr ""
+
+#: modules/settings.php:53
+msgid "This Currency Sign will be used on site price elements."
+msgstr ""
+
+#: modules/settings.php:60
+msgid "Weight Unit"
+msgstr ""
+
+#: modules/settings.php:62
+msgid "This Weight Unit will be used on site dishes elements."
+msgstr ""
+
+#: modules/settings.php:68
+msgid "Design Layout"
+msgstr ""
+
+#: modules/settings.php:85
+msgid "Show Dish Short Dedscription"
+msgstr ""
+
+#: modules/settings.php:87
+msgid "If checked - menu will show dishes short description"
+msgstr ""
+
+#: modules/settings.php:92
+msgid "Show Menu Description"
+msgstr ""
+
+#: modules/settings.php:94
+msgid "If checked - menu will show short description"
+msgstr ""
+
+#: modules/settings.php:99
+msgid "Show Menu Thumbnail"
+msgstr ""
+
+#: modules/settings.php:101
+msgid "If checked - menu thumbnail will be show in description block"
+msgstr ""
+
+#: modules/widgets.php:12
+msgid "Daily Deal widget will show best offer of some dish"
+msgstr ""
+
+#: modules/widgets.php:73 modules/widgets.php:170
+msgid "New title"
+msgstr ""
+
+#: modules/widgets.php:77 modules/widgets.php:174
+msgid "Title:"
+msgstr ""
+
+#: modules/widgets.php:82
+msgid "Dish to use"
+msgstr ""
+
+#: modules/widgets.php:94
+msgid "Price:"
+msgstr ""
+
+#: modules/widgets.php:98 modules/widgets.php:179
+msgid "Menu to link"
+msgstr ""
+
+#: modules/widgets.php:126
+msgid "You can use this widget to promote any menu"
+msgstr ""

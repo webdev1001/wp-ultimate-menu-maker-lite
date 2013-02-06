@@ -1,0 +1,128 @@
+.textarea_cls{
+	width:500px;
+	height:200px;
+}
+.wide_inp{
+	width:500px;
+}
+.clearfix{
+  clear:both;
+}
+.error_msg{
+	padding: 9px 6px 10px;
+background: coral;
+border: 1px dotted red;
+border-radius: 2px;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+color:#fff;
+}
+.conf_msg{
+	padding: 9px 6px 10px;
+	background: #CF9;
+	border: 1px dotted #9C0;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	color:#fff;
+}
+
+#urm_dishbox_id  input[type="text"], #urm_dishbox_id  label, #urm_dishbox_id  textarea{
+	display:block;
+	width:100%;
+	
+}
+#urm_menu_info_id textarea{
+	display:block;
+	width:100%;
+}
+#urm_dishbox_id  h2{
+	margin-bottom:0px;
+}
+.left_col{
+	float:left;
+	width:45%;
+	margin:10px;
+}
+.right_col{
+	float:left;
+	width:45%;
+	margin:10px;
+	height:500px;
+	overflow-y:auto;
+	border: 1px solid #CCC;
+	padding: 10px;
+}
+.right_col .inner_right_col_nav{
+	1height:800px;
+}
+.editor_container .admin_feat_icon{
+	float:left;
+	margin:5px 20px 5px 5px;
+	
+}
+.admin_feat_name{
+	margin-top: 10px;
+font-size: 14px;
+float: left;
+width: 60%;
+margin-bottom: 10px;
+}
+.left_col .dish_item{
+	margin-left:20px;
+}
+.left_title_single{
+	margin: 10px 0px;
+	text-align: center;
+	font-weight:bold;
+	width:55%;
+	float:left;
+}
+.title_name, .save_button{
+	display:none;
+}
+.editor_container .edit_block{
+	width:40%;
+	float:right;
+}
+.editor_container .dummy_title{
+	display:none;
+}
+.editor_container  .ui-state-highlight, .editor_container  .ui-state-default{
+	cursor:move;
+}
+.editor_container  .dish_remover{
+	float:right;
+	margin:10px 10px 5px 20px;
+	cursor:pointer;
+}
+.editor_container  .right_col .dish_remover{
+	display:none;
+}
+
+.admin_featured img, .admin_featured input[type=checkbox]{
+	float:right;
+} 
+.admin_featured input[type=checkbox]{
+	width:30px;
+}
+.single_thumb{
+	cursor:pointer;
+	width:64px;
+	margin-right:10px;
+	margin-bottom:10px;
+	padding: 5px;
+	border: solid 1px #EFEFEF;
+}
+img.single_thumb:hover{
+	border: solid 1px #CCC;
+	-moz-box-shadow: 1px 1px 5px #999;
+	-webkit-box-shadow: 1px 1px 5px #999;
+        box-shadow: 1px 1px 5px #999;
+}
+#status_ajax{
+	display:none;
+}
+.image_overlay{
+	display:none;
+}
